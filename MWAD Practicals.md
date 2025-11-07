@@ -1,0 +1,33 @@
+# MWAD Practicals
+
+[1. Progress Bar](1%20Progress%20Bar%2085e0b18b9b544174942637d1cb32cd88.md)
+
+[2. Read Contacts from Phone ](2%20Read%20Contacts%20from%20Phone%20763a376ee4ca41cd937c36a92093dde5.md)
+
+[3. Accepts a Number from User](3%20Accepts%20a%20Number%20from%20User%2012a6aa9072494936b8caf688f074a8e5.md)
+
+[4. Dialler Application](4%20Dialler%20Application%2003a1f59d0e1e4c94aa0629ae7a6644e7.md)
+
+[5. SMS Manager](5%20SMS%20Manager%202a42d9f7df2480f28c00e8cd5982542d.md)
+
+[6. File Input / Output](6%20File%20Input%20Output%2070077f87b0bb4d3fb85cd42a5921ec09.md)
+
+[7. Shared Preferences](7%20Shared%20Preferences%2069a38d759fd1480c8c0c53cf57d3884a.md)
+
+[8. Data Oriented Web Application](8%20Data%20Oriented%20Web%20Application%20c533333919334b46bf1f58d762eb74a4.md)
+
+[**9. Data Driven Authentication**](9%20Data%20Driven%20Authentication%202a42d9f7df2480b78beff4b8554552d5.md)
+
+[10. Animation](10%20Animation%202a42d9f7df248082b10df428b0bb227a.md)
+
+[11. Audio Player](11%20Audio%20Player%202a42d9f7df2480129b14da0f1c464443.md)
+
+[12. Web Browser](12%20Web%20Browser%202a42d9f7df2480aead37ec82a95da28c.md)
+
+[13. Location Based Services](13%20Location%20Based%20Services%202a42d9f7df2480468ae9eefdda0bfb36.md)
+
+[14. LINQ and Stored Procedure](14%20LINQ%20and%20Stored%20Procedure%202a42d9f7df24800a89a8f656bf6966ad.md)
+
+[15. AJAX](15%20AJAX%202a42d9f7df24800b93f0eb786b184985.md)
+
+[**16. Introduction to MVC**](16%20Introduction%20to%20MVC%202a42d9f7df248098b9cdcff254dd3c3c.md)
